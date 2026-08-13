@@ -163,3 +163,4 @@ find -name footer.jpeg
 mv --help
 mv ./images/footer.jpeg ./client/assets/images
 find
+rmdir ./images
