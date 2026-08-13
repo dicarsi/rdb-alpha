@@ -160,3 +160,5 @@ find -name images
 mv header.png ./client/assets/images
 find -name header.png
 find -name footer.jpeg
+mv --help
+mv ./images/footer.jpeg ./client/assets/images
